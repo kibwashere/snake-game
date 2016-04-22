@@ -2,4 +2,4 @@
 
 1. How to play
 
-
+2. Rules
