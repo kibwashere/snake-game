@@ -12,9 +12,9 @@
 * maybe there is also **"secret" mode** :)
 
 ## How to play
-* **player1**: arrows
-* **player2**: WASD / ZQSD
-* **player3**: IJKL
+* player1: arrows
+* player2: WASD / ZQSD
+* player3: IJKL
 
 ## Screenshots
 ![Home](http://arthur-moreau.net/github/hostedIMG/snake/1.png)
