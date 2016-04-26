@@ -1,4 +1,4 @@
-# Modern Snake
+# Snake
 
 ## Install
 1. download & install [love2d](https://love2d.org/)
