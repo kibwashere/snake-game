@@ -15,4 +15,5 @@
 ![Home](http://arthur-moreau.net/github/hostedIMG/snake/1.png)
 ![Solo](http://arthur-moreau.net/github/hostedIMG/snake/2.png)
 ![Multi](http://arthur-moreau.net/github/hostedIMG/snake/3.png)
+![Options](http://arthur-moreau.net/github/hostedIMG/snake/4.png)
 
