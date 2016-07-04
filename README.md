@@ -2,7 +2,7 @@
 
 ## Install
 1. download & install [love2d](https://love2d.org/)
-2. launch the .love file || drag and drop the snake folder to the love app
+2. launch the .love file || drag and drop the snake folder to the love app 
 3. have fun!
 
 ## Game Mode
