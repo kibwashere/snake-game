@@ -9,7 +9,7 @@
 * **one player**: eat every fruits
 * **two or three players**: the game ends when every player is dead
 * if this is too easy, you can play with **obstacles**
-* maybe there is also a **"secret" mode**.. :)
+* maybe there is also a **"secret" mode**... :)
 
 ## How to play
 * player1: arrows
